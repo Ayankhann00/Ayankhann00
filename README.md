@@ -3,12 +3,17 @@
 
 Welcome to my GitHub profile! I'm a Computer Science student at NUST University, passionate about web development, data structures, and algorithms. I love building projects that solve real-world problems, and I'm always learning new technologies to improve my skills.
 
-## 🛠 Technologies & Tools
-- HTML, CSS, JavaScript, React.js
-- C++ & Object-Oriented Programming (OOP)
-- Data Structures and Algorithms (DSA)
-- Node.js & Express.js
-- Git & GitHub
+## 💻 Languages & Technologies:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-007396?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -23,11 +28,35 @@ Welcome to my GitHub profile! I'm a Computer Science student at NUST University,
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankhann00&layout=compact)](https://github.com/Ayankhann00)
 
-## 🔭 Projects
-- **[World Clock](https://github.com/Ayankhann00/world-clock)** - A React.js project displaying the current time for various timezones.
-- **[Weather App](https://github.com/Ayankhann00/weather-app)** - A weather application using HTML, CSS, and JavaScript.
-- **[Voice-Controlled Home Automation](https://github.com/Ayankhann00/home-automation)** - A home automation system using ESP32 and Alexa.
-- ....AND MORE!
+## 🚀 Projects
+
+### 💻 Coding Solutions (C++)
+Repository: [Coding Solutions](https://github.com/Ayankhann00/coding-solutions)
+
+A collection of C++ coding challenges and solutions that I've worked on to sharpen my problem-solving skills.
+
+### 🛠️ Database Project (MySQL)
+Repository: [Database Project](https://github.com/Ayankhann00/database-project)
+
+A MySQL-based database project that showcases my understanding of database design, SQL queries, and management.
+
+### 🌐 World Clock Project (React.js)
+Repository: [World Clock Project](https://github.com/Ayankhann00/world-clock)
+
+A world clock app displaying both analog and digital clocks for various time zones with a toggle feature for dark and light modes.
+
+### 🌦️ Weather Application (HTML, CSS, JavaScript)
+Repository: [Weather App](https://github.com/Ayankhann00/weather-app)
+
+A web application that fetches live weather data using APIs and displays the current weather conditions of any location.
+
+### 💡 Home Automation System (ESP32, Alexa, Relay Module)
+Repository: Coming Soon
+
+A voice-controlled home automation system to control household devices using ESP32 and Alexa.
+
+---
+
 
 ## 🌱 Currently Learning
 - Advanced JavaScript
@@ -38,7 +67,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at NUST University,
 
 [![Ayan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayankhann00&theme=react-dark)](https://github.com/Ayankhann00)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
 
 ## 📫 How to reach me:
 - LinkedIn: [Ayan Khan](https://www.linkedin.com/in/ayankhann00/)
