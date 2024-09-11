@@ -34,6 +34,17 @@ Welcome to my GitHub profile! I'm a Computer Science student at NUST University,
 - Full-Stack Web Development (MERN Stack)
 - Data Structures & Algorithms
 
+- ## 📊 Contributions Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark)
+
+## 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+
+![Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
+![Repository count](https://img.shields.io/github/stars/your-username?label=Stars&style=social)
+
 ## 📫 How to reach me:
 - LinkedIn: [Ayan Khan](https://www.linkedin.com/in/ayankhann00/)
 
