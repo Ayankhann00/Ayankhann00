@@ -14,14 +14,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at NUST University,
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c++)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-FCC624?logo=vhdl)
-
 ## 📊 GitHub Stats
 
 ![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayankhann00&show_icons=true&theme=radical)
