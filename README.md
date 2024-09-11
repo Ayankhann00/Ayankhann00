@@ -42,6 +42,8 @@ Repository: [Weather App](https://github.com/Ayankhann00/weather-app)
 
 A web application that fetches live weather data using APIs and displays the current weather conditions of any location.
 
+###- [Todo List](https://github.com/Ayankhann00/todo-list)
+
 ### 💡 Home Automation System (ESP32, Alexa, Relay Module)
 
 A voice-controlled home automation system to control household devices using ESP32 and Alexa.
