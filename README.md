@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm a Computer Science student at NUST University,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PYTHON](https://img.shields.io/badge/-PYTHON-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-007396?style=flat-square&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -43,24 +43,23 @@ Repository: [Weather App](https://github.com/Ayankhann00/weather-app)
 
 A web application that fetches live weather data using APIs and displays the current weather conditions of any location.
 
-###- [Todo List](https://github.com/Ayankhann00/todo-list)
+### 📝 Todo List
+Repository: [Todo List](https://github.com/Ayankhann00/todo-list)
 
 ### 💡 Home Automation System (ESP32, Alexa, Relay Module)
-
 A voice-controlled home automation system to control household devices using ESP32 and Alexa.
 
 ---
-
 
 ## 🌱 Currently Learning
 - Advanced JavaScript
 - Full-Stack Web Development (MERN Stack)
 - Data Structures & Algorithms
+- Python
 
--### 📈 Contribution Graph
+### 📈 Contribution Graph
 
 [![Ayan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayankhann00&theme=react-dark)](https://github.com/Ayankhann00)
-
 
 ## 📫 How to reach me:
 - LinkedIn: [Ayan Khan](https://www.linkedin.com/in/ayankhann00/)
