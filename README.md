@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at NUST University,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-PYTHON-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-007396?style=flat-square&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
