@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 # Hi, I'm Ayan Khan 👋
 
 Welcome to my GitHub profile! I'm a Computer Science student at NUST University, passionate about web development, data structures, and algorithms. I love building projects that solve real-world problems, and I'm always learning new technologies to improve my skills.
