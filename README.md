@@ -1,6 +1,9 @@
 ## Hi there 👋
 # Hi, I'm Ayan Khan 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8362F7&width=435&lines=Front+End+Web+Developer)](https://git.io/typing-svg)
+
+
 Welcome to my GitHub profile! I'm a Computer Science student at NUST University, passionate about web development, data structures, and algorithms. I love building projects that solve real-world problems, and I'm always learning new technologies to improve my skills.
 
 ## 💻 Languages & Technologies:
