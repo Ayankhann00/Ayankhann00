@@ -1,72 +1,58 @@
-## Hi there 👋
-# Hi, I'm Ayan Khan 👋
+# Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8362F7&width=435&lines=Front+End+Web+Developer)](https://git.io/typing-svg)
+Hi, I'm Ayan Khan 👋  
+Welcome to my GitHub profile! I'm a Computer Science student at NUST University, passionate about web development, AI Automation, Flutter development, data structures, and algorithms. I love building projects that solve real-world problems, and I'm always learning new technologies to improve my skills.
 
+💻 **Languages & Technologies:**  
+HTML5, CSS3, JavaScript, React, C++, MySQL, Verilog, Node.js, Visual Studio Code, Python, Flutter
 
-Welcome to my GitHub profile! I'm a Computer Science student at NUST University, passionate about web development, data structures, and algorithms. I love building projects that solve real-world problems, and I'm always learning new technologies to improve my skills.
+📊 **GitHub Stats:**  
+[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayankhann00&show_icons=true&hide=prs&count_private=true&theme=radical)](https://github.com/Ayankhann00)
 
-## 💻 Languages & Technologies:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-007396?style=flat-square&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🌍 **Top Languages:**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankhann00&layout=compact&theme=radical)](https://github.com/Ayankhann00)
 
-## 📊 GitHub Stats
+## 🚀 **Projects**
 
-![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayankhann00&show_icons=true&theme=radical)
+### 💻 **Task Management App (Flutter)**  
+Repository: [Task Management App](https://github.com/Ayankhann00/task-management-app)  
+A Flutter-based task management app to help organize and track tasks. It includes user authentication, task creation, and categorization.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankhann00&layout=compact)](https://github.com/Ayankhann00)
-
-## 🚀 Projects
-
-### 💻 Coding Solutions (C++)
-Repository: [Coding Solutions](https://github.com/Ayankhann00/coding-solutions)
-
+### 💻 **Coding Solutions (C++)**  
+Repository: [Coding Solutions](https://github.com/Ayankhann00/coding-solutions)  
 A collection of C++ coding challenges and solutions that I've worked on to sharpen my problem-solving skills.
 
-### 🛠️ Database Project (MySQL)
-Repository: [Database Project](https://github.com/Ayankhann00/database-project)
-
+### 🛠️ **Database Project (MySQL)**  
+Repository: [Database Project](https://github.com/Ayankhann00/database-project)  
 A MySQL-based database project that showcases my understanding of database design, SQL queries, and management.
 
-### 🌐 World Clock Project (React.js)
-Repository: [World Clock Project](https://github.com/Ayankhann00/world-clock)
-
+### 🌐 **World Clock Project (React.js)**  
+Repository: [World Clock Project](https://github.com/Ayankhann00/world-clock-project)  
 A world clock app displaying both analog and digital clocks for various time zones with a toggle feature for dark and light modes.
 
-### 🌦️ Weather Application (HTML, CSS, JavaScript)
-Repository: [Weather App](https://github.com/Ayankhann00/weather-app)
-
+### 🌦️ **Weather Application (HTML, CSS, JavaScript)**  
+Repository: [Weather App](https://github.com/Ayankhann00/weather-app)  
 A web application that fetches live weather data using APIs and displays the current weather conditions of any location.
 
-### 📝 Todo List
-Repository: [Todo List](https://github.com/Ayankhann00/todo-list)
+### 📝 **Todo List**  
+Repository: [Todo List](https://github.com/Ayankhann00/todo-list)  
+A simple Todo list app built with React.js to manage tasks and improve productivity.
 
-### 💡 Home Automation System (ESP32, Alexa, Relay Module)
+### 💡 **Home Automation System (ESP32, Alexa, Relay Module)**  
+Repository: [Home Automation System](https://github.com/Ayankhann00/home-automation-system)  
 A voice-controlled home automation system to control household devices using ESP32 and Alexa.
 
----
-
-## 🌱 Currently Learning
+## 🌱 **Currently Learning**
 - Advanced JavaScript
 - Full-Stack Web Development (MERN Stack)
 - Data Structures & Algorithms
 - Python
+- AI Automation
+- Flutter Development
 
-### 📈 Contribution Graph
+📈 **Contribution Graph:**  
+[![Ayan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayankhann00&theme=github)](https://github.com/Ayankhann00)
 
-[![Ayan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayankhann00&theme=react-dark)](https://github.com/Ayankhann00)
-
-<img src="https://streak-stats.demolab.com?user=Ayankhann00&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
-
-
-## 📫 How to reach me:
-- LinkedIn: [Ayan Khan](https://www.linkedin.com/in/ayankhann00/)
+## 📫 **How to reach me:**  
+[LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayan-khan/)
 
