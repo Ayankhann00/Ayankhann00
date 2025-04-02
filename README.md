@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F71E&width=435&lines=Passionate+Full-Stack+Web+Developer;Flutter+Developer;Ai-Automation" alt="Typing SVG" /></a>
+
 # Hi there 👋
 
 Hi, I'm Ayan Khan 👋  
@@ -55,4 +57,5 @@ A voice-controlled home automation system to control household devices using ESP
 
 ## 📫 **How to reach me:**  
 [LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayan-khan/)
+
 
