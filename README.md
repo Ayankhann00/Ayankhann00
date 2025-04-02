@@ -55,6 +55,9 @@ A voice-controlled home automation system to control household devices using ESP
 📈 **Contribution Graph:**  
 [![Ayan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayankhann00&theme=github)](https://github.com/Ayankhann00)
 
+### 🔥 **Streak Graph:**  
+[![Ayan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayankhann00&theme=radical)](https://git.io/streak-stats)
+
 ## 📫 **How to reach me:**  
 [LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayan-khan/)
 
