@@ -61,5 +61,6 @@ A voice-controlled home automation system to control household devices using ESP
 
 ## 📫 **How to reach me:**  
 [LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayan-khan/)
-[LinkedIn(Company):Zynxis]
+
+[LinkedIn(Company):Zynxis](https://www.linkedin.com/company/zynexx/)
 
