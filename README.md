@@ -53,7 +53,7 @@ A voice-controlled home automation system to control household devices using ESP
 - Flutter Development
 
 📈 **Contribution Graph:**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayankhann0)](https://git.io/streak-stats)
+[![Ayan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayankhann00&theme=github)](https://github.com/Ayankhann00)
 
 ### 🔥 **Streak Graph:**  
 [![Ayan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayankhann00&theme=radical)](https://git.io/streak-stats)
