@@ -1,66 +1,65 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F71E&width=435&lines=Passionate+Full-Stack+Web+Developer;Flutter+Developer;Ai-Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F71E&width=435&lines=Passionate+Full-Stack+Web+Developer;AI+Automation+Learner;Flutter+Developer;Python+%26+Data+Science+Enthusiast" alt="Typing SVG" /></a>
 
 # Hi there 👋
 
-Hi, I'm Ayan Khan 👋  
-Welcome to my GitHub profile! I'm a Computer Science student at NUST University, passionate about web development, AI Automation, Flutter development, data structures, and algorithms. I love building projects that solve real-world problems, and I'm always learning new technologies to improve my skills.
+Hi, I'm Ayan Khan 👋
+I'm a Computer Science student at NUST University — a passionate Flutter and Full-Stack (MERN) Developer with a strong background in web and app development.
+Currently, I'm expanding into Data Science and Machine Learning through dedicated learning paths and real-world projects.
+---
 
-💻 **Languages & Technologies:**  
-HTML5, CSS3, JavaScript, React, C++, MySQL, Verilog, Node.js, Visual Studio Code, Python, Flutter
+## 🧠 **Currently Learning**
+- Python for Data Science & Machine Learning (Jose Portilla)
+- Machine Learning A-Z (AI + Python + R + ChatGPT)
+- Data Analysis, Pandas, NumPy, Matplotlib, Scikit-Learn
+- AI Automation & Prompt Engineering
+- Full-Stack Web Development (MERN)
+- Flutter App Development
 
-📊 **GitHub Stats:**  
-[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayankhann00&show_icons=true&hide=prs&count_private=true&theme=radical)](https://github.com/Ayankhann00)
+---
 
-### 🌍 **Top Languages:**
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankhann00&layout=compact&theme=radical)](https://github.com/Ayankhann00)
+## 💻 **Languages & Technologies**
+**Frontend:**  
+HTML5, CSS3, JavaScript, React, Flutter  
+
+**Backend / Logic:**  
+Python, C++, Node.js, MySQL, Verilog
+
+**AI & Data Science:**  
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow (basics), Jupyter Notebooks  
+
+**Tools & Platforms:**  
+VS Code, GitHub, Google Colab, IBM WatsonX, Firebase, Figma, Linux/macOS Terminal
+
+---
 
 ## 🚀 **Projects**
+- [🌐 World Clock (React.js)](https://github.com/Ayankhann00/world-clock-project)  
+- [☁️ Weather App (HTML/CSS/JS)](https://github.com/Ayankhann00/weather-app)  
+- [📝 Todo List (React)](https://github.com/Ayankhann00/todo-list)  
+- [📲 Task Manager (Flutter)](https://github.com/Ayankhann00/task-management-app)  
+- [🧠 Home Automation (ESP32 + Alexa)](https://github.com/Ayankhann00/home-automation-system)  
+- [📚 Coding Solutions (C++)](https://github.com/Ayankhann00/coding-solutions)  
+- [🗃️ Database Project (MySQL)](https://github.com/Ayankhann00/database-project)
 
-### 💻 **Task Management App (Flutter)**  
-Repository: [Task Management App](https://github.com/Ayankhann00/task-management-app)  
-A Flutter-based task management app to help organize and track tasks. It includes user authentication, task creation, and categorization.
+---
 
-### 💻 **Coding Solutions (C++)**  
-Repository: [Coding Solutions](https://github.com/Ayankhann00/coding-solutions)  
-A collection of C++ coding challenges and solutions that I've worked on to sharpen my problem-solving skills.
+## 📈 **GitHub Stats**
+![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayankhann00&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankhann00&layout=compact&theme=radical)
 
-### 🛠️ **Database Project (MySQL)**  
-Repository: [Database Project](https://github.com/Ayankhann00/database-project)  
-A MySQL-based database project that showcases my understanding of database design, SQL queries, and management.
+---
 
-### 🌐 **World Clock Project (React.js)**  
-Repository: [World Clock Project](https://github.com/Ayankhann00/world-clock-project)  
-A world clock app displaying both analog and digital clocks for various time zones with a toggle feature for dark and light modes.
-
-### 🌦️ **Weather Application (HTML, CSS, JavaScript)**  
-Repository: [Weather App](https://github.com/Ayankhann00/weather-app)  
-A web application that fetches live weather data using APIs and displays the current weather conditions of any location.
-
-### 📝 **Todo List**  
-Repository: [Todo List](https://github.com/Ayankhann00/todo-list)  
-A simple Todo list app built with React.js to manage tasks and improve productivity.
-
-### 💡 **Home Automation System (ESP32, Alexa, Relay Module)**  
-Repository: [Home Automation System](https://github.com/Ayankhann00/home-automation-system)  
-A voice-controlled home automation system to control household devices using ESP32 and Alexa.
-
-## 🌱 **Currently Learning**
-- Advanced JavaScript
-- Full-Stack Web Development (MERN Stack)
-- Data Structures & Algorithms
-- Python
-- AI Automation
-- Flutter Development
-
-📈 **Contribution Graph:**  
-[![Ayan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayankhann00&theme=github)](https://github.com/Ayankhann00)
-
-
-### 🔥 **Streak Graph:**  
+## 🔥 **Contribution Streak**
 [![Ayan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayankhann00&theme=radical)](https://git.io/streak-stats)
 
-## 📫 **How to reach me:**  
-[LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayan-khan/)
+---
 
-[LinkedIn(Company):Zynxis](https://www.linkedin.com/company/zynexx/)
+## 📫 **How to Reach Me**
+📧 Email: ayaanhassan.khan@gmail.com 
+🔗 [LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayan-khan/)  
+🏢 [Company Page: Zynxis](https://www.linkedin.com/company/zynexx/)
+
+---
+
+_Always learning. Always building._ 🔁
 
