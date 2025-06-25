@@ -33,13 +33,39 @@ VS Code, GitHub, Google Colab, IBM WatsonX, Firebase, Figma, Linux/macOS Termina
 ---
 
 ## 🚀 **Projects**
-- [🌐 World Clock (React.js)](https://github.com/Ayankhann00/world-clock-project)  
-- [☁️ Weather App (HTML/CSS/JS)](https://github.com/Ayankhann00/weather-app)  
-- [📝 Todo List (React)](https://github.com/Ayankhann00/todo-list)  
-- [📲 Task Manager (Flutter)](https://github.com/Ayankhann00/task-management-app)  
-- [🧠 Home Automation (ESP32 + Alexa)](https://github.com/Ayankhann00/home-automation-system)  
-- [📚 Coding Solutions (C++)](https://github.com/Ayankhann00/coding-solutions)  
-- [🗃️ Database Project (MySQL)](https://github.com/Ayankhann00/database-project)
+
+### 🌐 **World Clock Project (React.js)**  
+[Repository](https://github.com/Ayankhann00/world-clock-project)  
+A world clock app displaying both analog and digital clocks for various time zones with a toggle feature for dark and light modes.
+
+### 🌍 **Travel App (Flutter & Firebase)**  
+[Repository](https://github.com/Ayankhann00/travel-app) *(Update this link if the repo name is different)*  
+A cross-platform Flutter travel application integrated with Firebase for authentication and database support. It allows users to explore top places, leave comments, and upload experiences.
+
+### 🌦️ **Weather Application (HTML, CSS, JavaScript)**  
+[Repository](https://github.com/Ayankhann00/weather-app)  
+A web application that fetches live weather data using APIs and displays the current weather conditions of any location.
+
+### 📝 **Todo List**  
+[Repository](https://github.com/Ayankhann00/todo-list)  
+A simple Todo list app built with React.js to manage tasks and improve productivity.
+
+### 📲 **Task Management App (Flutter)**  
+[Repository](https://github.com/Ayankhann00/task-management-app)  
+A Flutter-based task management app to help organize and track tasks. It includes user authentication, task creation, and categorization.
+
+### 🧠 **Home Automation System (ESP32, Alexa, Relay Module)**  
+[Repository](https://github.com/Ayankhann00/home-automation-system)  
+A voice-controlled home automation system to control household devices using ESP32 and Alexa.
+
+### 💻 **Coding Solutions (C++)**  
+[Repository](https://github.com/Ayankhann00/coding-solutions)  
+A collection of C++ coding challenges and solutions that I've worked on to sharpen my problem-solving skills.
+
+### 🗃️ **Database Project (MySQL)**  
+[Repository](https://github.com/Ayankhann00/database-project)  
+A MySQL-based database project that showcases my understanding of database design, SQL queries, and management.
+
 
 ---
 
