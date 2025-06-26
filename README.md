@@ -82,7 +82,7 @@ A MySQL-based database project that showcases my understanding of database desig
 
 ## 📫 **How to Reach Me**
 📧 Email: ayaanhassan.khan@gmail.com 
-🔗 [LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayan-khan/)  
+🔗 [LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayankhan/)  
 🏢 [Company Page: Zynxis](https://www.linkedin.com/company/zynexx/)
 
 ---
