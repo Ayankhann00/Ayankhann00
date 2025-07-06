@@ -2,9 +2,10 @@
 
 # Hi there 👋
 
-Hi, I'm Ayan Khan 👋
-I'm a Computer Science student at NUST University — a passionate Flutter and Full-Stack (MERN) Developer with a strong background in web and app development.
+Hi, I'm Ayan Khan 👋  
+I'm a Computer Science student at NUST University — a passionate Flutter and Full-Stack (MERN) Developer with a strong background in web and app development.  
 Currently, I'm expanding into Data Science and Machine Learning through dedicated learning paths and real-world projects.
+
 ---
 
 ## 🧠 **Currently Learning**
@@ -28,7 +29,7 @@ Python, C++, Node.js, MySQL, Verilog
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow (basics), Jupyter Notebooks  
 
 **Tools & Platforms:**  
-VS Code, GitHub, Google Colab, IBM WatsonX, Firebase, Figma, Linux/macOS Terminal
+VS Code, GitHub, Google Colab, Jupyter Notebook, IBM WatsonX, Firebase, Figma, Linux/macOS Terminal
 
 ---
 
@@ -66,11 +67,14 @@ A collection of C++ coding challenges and solutions that I've worked on to sharp
 [Repository](https://github.com/Ayankhann00/database-project)  
 A MySQL-based database project that showcases my understanding of database design, SQL queries, and management.
 
+### 🎬 **Netflix Data Capstone Project (Python, Jupyter)**  
+[Repository](https://github.com/Ayankhann00/netflix-data-capstone-project) *(Update with real repo URL)*  
+An end-to-end data analysis and visualization project using the Netflix dataset. Built with Pandas, Seaborn, Matplotlib, and Jupyter Notebooks to explore IMDb scores, genre distributions, runtime trends, and more.
 
 ---
 
 ## 📈 **GitHub Stats**
-![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayankhann00&show_icons=true&theme=radical&count_private=true)
+![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayankhann00&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankhann00&layout=compact&theme=radical)
 
 ---
@@ -81,7 +85,7 @@ A MySQL-based database project that showcases my understanding of database desig
 ---
 
 ## 📫 **How to Reach Me**
-📧 Email: ayaanhassan.khan@gmail.com 
+📧 Email: ayaanhassan.khan@gmail.com  
 🔗 [LinkedIn: Ayan Khan](https://www.linkedin.com/in/ayankhan/)  
 🏢 [Company Page: Zynxis](https://www.linkedin.com/company/zynexx/)
 
