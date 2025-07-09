@@ -5,18 +5,59 @@
 # Hi there 👋
 
 Hi, I'm **Ayan Khan** 👋  
-I'm a Computer Science student at **NUST University** — a passionate Flutter and Full-Stack (MERN) Developer with a strong foundation in web and app development.  
-Currently, I'm expanding into **Data Science and Machine Learning** through hands-on projects and continuous learning.
+Computer Science student at **NUST University** | Flutter & Full-Stack (MERN) Developer | Exploring Data Science & AI  
+Passionate about building impactful solutions through code and continuous learning.
+
+---
+
+## 🚀 Currently Working On
+- Building AI-powered automation tools with Python
+- Developing cross-platform mobile apps with Flutter
+- Creating full-stack web applications with MERN stack
+- Contributing to open-source data science projects
+- Preparing for Kaggle competitions in machine learning
+
+---
+
+## 🤝 I'm Looking to Collaborate On
+- Innovative Flutter/Dart projects
+- AI/ML applications with Python
+- Web development projects (React/Node.js)
+- Data visualization and analysis projects
+- IoT systems with Arduino/ESP32
+
+---
+
+## 🆘 I'm Looking for Help With
+- Advanced machine learning concepts (NLP, Computer Vision)
+- Optimizing React performance
+- Flutter state management best practices
+- Cloud deployment strategies (AWS/Docker)
+- Contributing to large open-source projects
 
 ---
 
 ## 🧠 Currently Learning
-- Python for Data Science & Machine Learning (Jose Portilla)
-- Machine Learning A-Z (AI + Python + R + ChatGPT)
-- Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- AI Automation & Prompt Engineering
-- Full-Stack Web Development (MERN Stack)
-- Flutter App Development
+- **Python for Data Science**: Pandas, NumPy, Scikit-Learn
+- **Machine Learning**: TensorFlow, PyTorch, Kaggle courses
+- **AI Automation**: Prompt engineering, LLM integration
+- **Web Development**: Advanced React patterns, GraphQL
+- **Mobile Development**: Flutter animations, Firebase integration
+
+---
+
+## 💡 Ask Me About
+- Getting started with Flutter development
+- Python for data analysis and automation
+- MERN stack fundamentals
+- Arduino/IoT project ideas
+- Transitioning from web to mobile development
+- Computer science student experiences at NUST
+
+---
+
+## 😄 Fun Fact
+I once built a voice-controlled home automation system that accidentally ordered 50 rolls of toilet paper from Amazon when it misinterpreted my command! Now I'm much better at speech recognition algorithms 😅
 
 ---
 
@@ -72,22 +113,25 @@ Currently, I'm expanding into **Data Science and Machine Learning** through hand
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Netflix Data Analysis](https://github.com/Ayankhann00/Data-Capstone-Project-2) | EDA of Netflix content | Python, Pandas, Seaborn |
-| [World Clock](https://github.com/Ayankhann00/world-clock-project) | Timezone converter | React, Moment.js |
-| [Travel App](https://github.com/Ayankhann00/travel-app) | Location explorer | Flutter, Firebase |
-| [Home Automation](https://github.com/Ayankhann00/home-automation-system) | Alexa-controlled IoT | ESP32, AWS IoT |
+| [Netflix Data Analysis](https://github.com/Ayankhann00/Data-Capstone-Project-2) | Comprehensive EDA of Netflix content | Python, Pandas, Seaborn |
+| [World Clock](https://github.com/Ayankhann00/world-clock-project) | Timezone converter with UI | React, Moment.js |
+| [Travel App](https://github.com/Ayankhann00/travel-app) | Location explorer with recommendations | Flutter, Firebase |
+| [Home Automation](https://github.com/Ayankhann00/home-automation-system) | Voice-controlled IoT system | ESP32, AWS IoT |
 
 ---
 
 ## 🌟 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayankhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ayan-khan-374571317">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ayaanhassan.khan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://instagram.com/ayxn00._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/Ayankhann00">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
