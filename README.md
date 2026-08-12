@@ -93,18 +93,74 @@ ask_me_about:
 
 ## 🚀 Latest Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Stack |
-|---|---|---|
-| [🌐 Browser AI Agent](https://github.com/Ayankhann00/browser-ai-agent) | Local AI agent that controls a real Chromium browser from plain-language instructions, running an Observe → Reason → Act loop | `Python` `FastAPI` `LangGraph` `Ollama` `Playwright` |
-| [🩺 Diabetes Predictor](https://github.com/Ayankhann00/Diabetes-Predictor) | ML model predicting diabetes risk from patient data | `Python` `scikit-learn` |
-| [📊 Data Capstone Project](https://github.com/Ayankhann00/Data-Capstone-Project-2) | Data science capstone / exploratory data analysis | `Jupyter Notebook` `Pandas` |
-| [📧 Spam Email Detector](https://github.com/Ayankhann00/SPAM-Email-Detection-System) | Classifies spam vs. legitimate email | `Python` |
-| [✅ Task Management App](https://github.com/Ayankhann00/Task-Management-App-) | Task manager with timelines & a premium upgrade tier | `Dart` `Flutter` |
-| [🕒 World Clock (React)](https://github.com/Ayankhann00/WORLD-CLOCK-REACT-) | Timezone converter web app | `JavaScript` |
+### 🌐 Browser AI Agent
+Local AI agent that controls a real Chromium browser from plain-language instructions, running an **Observe → Reason → Act** loop.
 
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+
+**[View Repo →](https://github.com/Ayankhann00/browser-ai-agent)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Diabetes Predictor
+ML model predicting diabetes risk from patient data.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+**[View Repo →](https://github.com/Ayankhann00/Diabetes-Predictor)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Capstone Project
+Data science capstone project — exploratory data analysis and insights.
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+**[View Repo →](https://github.com/Ayankhann00/Data-Capstone-Project-2)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 Spam Email Detector
+Classifies spam vs. legitimate email.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54"/>
+
+**[View Repo →](https://github.com/Ayankhann00/SPAM-Email-Detection-System)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Task Management App
+Task manager with timelines and a premium upgrade tier.
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+
+**[View Repo →](https://github.com/Ayankhann00/Task-Management-App-)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🕒 World Clock (React)
+Timezone converter web app.
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+
+**[View Repo →](https://github.com/Ayankhann00/WORLD-CLOCK-REACT-)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
