@@ -108,12 +108,13 @@ ask_me_about:
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayankhann00&show_icons=true&theme=radical&hide_border=true&bg_color=0F0F0F&title_color=00F7FF&icon_color=00F7FF&text_color=C9C9D9&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankhann00&layout=compact&theme=radical&hide_border=true&bg_color=0F0F0F&title_color=00F7FF&text_color=C9C9D9&langs_count=8" width="48%" />
+<img src="https://img.shields.io/github/followers/Ayankhann00?style=for-the-badge&logo=github&label=Followers&color=00F7FF&labelColor=0F0F0F" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyankhann00&color=00F7FF&labelColor=0F0F0F&logo=github" />
+<img src="https://img.shields.io/github/stars/Ayankhann00/browser-ai-agent?style=for-the-badge&label=Stars%20(latest)&color=00F7FF&labelColor=0F0F0F&logo=github" />
 
 </div>
 
@@ -131,7 +132,7 @@ ask_me_about:
 
 </div>
 
-<sub>If the widgets above ever render blank on GitHub, it's usually a transient hiccup with the third-party image service — a hard refresh or a few minutes' wait fixes it. The badge row above always renders regardless.</sub>
+<sub>These badges are served by shields.io, which reads live from the GitHub API directly — no third-party dashboard in between, so they won't go blank the way the earlier stat cards did.</sub>
 
 <br/>
 
